@@ -1,0 +1,26 @@
+{
+  "name": "@sruthisuresh/simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with basic arithmetic functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sruthi-98/simple-calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "add",
+    "subtract",
+    "multiply",
+    "divide"
+  ],
+  "author": "Sruthi Suresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sruthi-98/simple-calculator/issues"
+  },
+  "homepage": "https://github.com/sruthi-98/simple-calculator#readme"
+}
