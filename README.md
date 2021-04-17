@@ -4,7 +4,9 @@ A simple calculator with basic arithmetic functions
 
 ### Installation
 
-```npm install simple-calculator```
+~~~
+npm install simple-calculator
+~~~
 
 ### Usage
 
