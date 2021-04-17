@@ -11,7 +11,7 @@ npm install @sruthisuresh/simple-calculator
 ### Usage
 
 ~~~
-import { add, subtract, divide, multiply } from 'simple-calculator';
+const { add, subtract, divide, multiply } = require('@sruthisuresh/simple-calculator');
 
 add(6, 3)
 // returns 9
